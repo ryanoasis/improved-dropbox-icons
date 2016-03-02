@@ -2,24 +2,24 @@
 
 > Improved Dropbox images for the system tray
 
-![preview](preview-1.png)
+![preview](previews/preview-1.png)
 
 ### Dropbox normal
 
-![normal](images/dropboxstatus-logo.png)
+![normal](previews/dropboxstatus-logo.png)
 
 ### Dropbox idle
 
-![idle](images/dropboxstatus-idle.png)
+![idle](previews/dropboxstatus-idle.png)
 
 ### Dropbox busy
 
-![busy](images/dropboxstatus-busy.png)
+![busy](previews/dropboxstatus-busy.png)
 
 ### Dropbox busy2
 
-![busy2](images/dropboxstatus-busy2.png)
+![busy2](previews/dropboxstatus-busy2.png)
 
 ### Dropbox x
 
-![x](images/dropboxstatus-x.png)
+![x](previews/dropboxstatus-x.png)
