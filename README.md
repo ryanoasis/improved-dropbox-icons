@@ -4,28 +4,24 @@
 
 ![preview](previews/preview-1.png)
 
-### Dropbox normal
+### States
 
-![normal](previews/dropboxstatus-logo.png)
+| Normal                                      | Idle                                       |
+|:-------------------------------------------:|:-------------------------------------------:
+|![normal](previews/dropboxstatus-logo.png)   | ![idle](previews/dropboxstatus-idle.png)   |
 
-### Dropbox idle
+| Busy                                        | Busy2                                      |
+|:-------------------------------------------:|:------------------------------------------:|
+|![busy](previews/dropboxstatus-busy.png)     | ![busy2](previews/dropboxstatus-busy2.png) |
 
-![idle](previews/dropboxstatus-idle.png)
-
-### Dropbox busy
-
-![busy](previews/dropboxstatus-busy.png)
-
-### Dropbox busy2
-
-![busy2](previews/dropboxstatus-busy2.png)
-
-### Dropbox x
-
-![x](previews/dropboxstatus-x.png)
+| X                                           |
+|:-------------------------------------------:|
+|![x](previews/dropboxstatus-x.png)           |
 
 
-## Copy images to appropriate folder
+### Installation
+
+* Copy images to appropriate folder
 
 e.g.
 
