@@ -23,3 +23,12 @@
 ### Dropbox x
 
 ![x](previews/dropboxstatus-x.png)
+
+
+## Copy images to appropriate folder
+
+e.g.
+
+```
+~/dropbox-dist/dropbox-lnx.x86_64-3.18.1/images/hicolor/16x16/status/
+```
